@@ -1,4 +1,4 @@
-module revel
+module github.com/danbadge/go-web/revel
 
 go 1.17
 
